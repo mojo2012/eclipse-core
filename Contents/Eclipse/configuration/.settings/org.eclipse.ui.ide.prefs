@@ -1,5 +1,5 @@
 MAX_RECENT_WORKSPACES=10
-RECENT_WORKSPACES=/Users/matthias.fuchs/Projekte/privat/spOt
+RECENT_WORKSPACES=/Users/matthias/Projekte/spOt\n/Users/matthias.fuchs/Projekte/privat/spOt
 RECENT_WORKSPACES_PROTOCOL=3
 SHOW_RECENT_WORKSPACES=false
 SHOW_WORKSPACE_SELECTION_DIALOG=true
