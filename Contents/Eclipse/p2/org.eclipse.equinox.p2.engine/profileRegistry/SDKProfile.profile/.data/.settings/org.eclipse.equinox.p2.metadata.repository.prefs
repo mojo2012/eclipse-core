@@ -14,6 +14,12 @@ repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Ecl
 repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_116_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_116_data_listener_1925729951/uri=file\:/Users/matthias.fuchs/Desktop/Eclipse%20Core.app/Contents/Eclipse/configuration/org.eclipse.osgi/116/data/listener_1925729951/
 repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_116_data_listener_1925729951/version=1.0.0
+repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_138_data_listener_1925729951/isSystem=true
+repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_138_data_listener_1925729951/name=dropins
+repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_138_data_listener_1925729951/suffix=content.xml
+repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_138_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_138_data_listener_1925729951/uri=file\:/Users/matthias.fuchs/Desktop/Eclipse%20Core.app/Contents/Eclipse/configuration/org.eclipse.osgi/138/data/listener_1925729951/
+repositories/file\:_Users_matthias.fuchs_Desktop_Eclipse%20Core.app_Contents_Eclipse_configuration_org.eclipse.osgi_138_data_listener_1925729951/version=1.0.0
 repositories/http\:__dist.springsource.com_release_TOOLS_update_3.9.1.RELEASE_e4.7/enabled=false
 repositories/http\:__dist.springsource.com_release_TOOLS_update_3.9.1.RELEASE_e4.7/isSystem=true
 repositories/http\:__dist.springsource.com_release_TOOLS_update_3.9.1.RELEASE_e4.7/name=org.springsource.sts.product
