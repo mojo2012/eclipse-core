@@ -1,3 +1,5 @@
+.DS_Store
+
 # Compiled class file
 *.class
 
@@ -24,3 +26,5 @@ hs_err_pid*
 *.instance
 .fileTable.*
 framework.info.*
+
+Contents/Eclipse/configuration/org.eclipse.update/history
