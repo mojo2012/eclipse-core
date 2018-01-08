@@ -1,3 +1,5 @@
-#Mon Oct 09 06:01:30 EDT 2017
+#Wed Jan 03 10:09:08 CET 2018
 -Xms=40m
+eclipse.userDefined\:-Xms=256m
 -Xmx=512m
+eclipse.userDefined\:-Xmx=1024m

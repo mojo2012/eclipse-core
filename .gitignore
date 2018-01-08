@@ -28,3 +28,4 @@ hs_err_pid*
 framework.info.*
 
 Contents/Eclipse/configuration/org.eclipse.update/history
+org.eclipse.ui.ide.prefs
