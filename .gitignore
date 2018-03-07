@@ -3,6 +3,8 @@
 cache/
 .manager/
 
+artifacts.jar
+
 # Compiled class file
 *.class
 
